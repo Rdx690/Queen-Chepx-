@@ -33,7 +33,7 @@
 
 
 <p align="center">
-<a href="https://github.com/LucidLegend/Queen-Chepx"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
+<a href="https://github.com/LucidLegend/Queen-Chepx-"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=KHAN-AI&label=VIEWS&style=flat-square&color=blue" />
 </p>
 </p> 
@@ -49,7 +49,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/LucidLegend/Queen-Chepx/fork"><img title="Queen-Chepx" src="https://img.shields.io/badge/FORK-Queen-Chepx-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/LucidLegend/Queen-Chepx-/fork"><img title="Queen-Chepx" src="https://img.shields.io/badge/FORK-Queen-Chepx-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
@@ -85,7 +85,7 @@ You will need a session ID to run. Click the button below to obtain your session
 
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/LucidLegend/Queen-Chepx/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-brown?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/LucidLegend/Queen-Chepx-/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-brown?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 <h4 align="center">2. Koyeb</h4>
 <p style="text-align: center; font-size: 1.2em;">
