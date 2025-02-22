@@ -7,7 +7,7 @@ module.exports = async (context) => {
             key: { remoteJid: m.chat, participant: `0@s.whatsapp.net` },
             message: {
                 contactMessage: {
-                    displayName: `Keith md`,
+                    displayName: `Lucid Legend`,
                     vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:BERA MD\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`,
                 },
             },
