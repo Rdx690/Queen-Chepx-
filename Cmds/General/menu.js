@@ -95,7 +95,7 @@ module.exports = async (context) => {
         menuText += `*┃│ Time ${getCurrentTimeInNairobi()}*\n`;
         menuText += `*┃│ Prefix: ${prefix}*\n`;
         menuText += `*┃│ Mode: ${mode}*\n`;
-        menuText += '*┃│ Owner: Bruce Bera*\n';
+        menuText += '*┃│ Owner: Lucid Legend*\n';
         menuText += '*┃╰──────────────*\n';
         menuText += '*╰━━━━━━━━━━━━━━━━━━*\n';
 
@@ -143,7 +143,7 @@ module.exports = async (context) => {
                     mentionedJid: [m.sender], // Mention the sender
                     externalAdReply: {
                         title: "Queen-Chepx",
-                        body: "𝐁𝐫𝐮𝐜𝐞 𝐁𝐞𝐫𝐚 ",
+                        body: "Lucid Legend ",
                         thumbnailUrl: "https://files.catbox.moe/aljoqe.jpg",
                         sourceUrl: "https://whatsapp.com/channel/0029Vb6kFAsHrDZZn80wdr3d",
                         mediaType: 1,
