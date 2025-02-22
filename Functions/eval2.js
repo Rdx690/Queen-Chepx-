@@ -2,7 +2,7 @@ module.exports = async (client, m, Owner, budy, fetchJson) => {
 const util = require("util");
 
 if (budy && budy.startsWith('$')) { 
-   if (!Owner) return m.reply `you need owner permission or my dev Bruce Bera to execute this command 🚫` 
+   if (!Owner) return m.reply `you need owner permission or my dev Lucid Legend to execute this command 🚫` 
    function Return(sul) { 
  sat = JSON.stringify(sul, null, 2) 
  bang = util.format(sat) 
