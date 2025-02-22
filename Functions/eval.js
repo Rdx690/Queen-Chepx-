@@ -12,9 +12,9 @@ module.exports = async (client, m, Owner, budy, fetchJson, store) => {
         contextInfo: {
           mentionedJid: [m.sender], // Mention the sender
           externalAdReply: {
-            title: "BERA MD",
-            body: "BERA TECH",
-            sourceUrl: "https://wa.me/254743982206",
+            title: "Lucid Legend",
+            body: "Lucid Legend",
+            sourceUrl: "https://whatsapp.com/channel/0029Vb6kFAsHrDZZn80wdr3d",
             mediaType: 1,
             renderLargerThumbnail: false
           }
