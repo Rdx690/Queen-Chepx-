@@ -266,13 +266,13 @@ Stay connected with the latest updates and community by joining our official Wha
 
 ### Thanks To Team ⤵️
 
-> KHAN-AI Owner 
-- [JawadTechX](https://github.com/LucidLegend)
+> Owner 
+- [LucidLegend](https://github.com/LucidLegend)
 - Creater and Owner Of Queen-Chepx
 > Helpers 
-- [ROMEKTRICKS](https://github.com/Berabotsmd)
+- [Bera](https://github.com/Berabotsmd)
 > Helpers 
-- [ROMEKTRICKS](https://github.com/betingrich3)
+- [Marisel](https://github.com/betingrich3)
 - For helping in bot plugin files.
 ---
 
