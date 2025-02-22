@@ -21,7 +21,7 @@
 ***
 
 <p align="center">
-  <a href="https://github.com/LucidLegend"><img title="Developer" src="https://img.shields.io/badge/Author-Jawad%20TechX-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/LucidLegend"><img title="Developer" src="https://img.shields.io/badge/Author-LucidLegend%20-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
