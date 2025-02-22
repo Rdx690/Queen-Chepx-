@@ -26,7 +26,7 @@
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-0078D4?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-0078D4?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x)
 </div>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{Queen-Chepx}/count.svg" alt="JawadYTX :: Visitor's Count" old_src="https://profile-counter.glitch.me/{JawadYTX}/count.svg" /></p>
@@ -49,7 +49,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/JawadYTX/KHAN-AI/fork"><img title="KHAN-MD" src="https://img.shields.io/badge/FORK-KHAN AI-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/LucidLegend/Queen-Chepx/fork"><img title="KHAN-MD" src="https://img.shields.io/badge/FORK-KHAN AI-h?color=blue&style=for-the-badge&logo=stackshare"></a>
   
 ### 2. Get Session ID 
 
