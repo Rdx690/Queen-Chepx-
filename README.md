@@ -29,11 +29,11 @@
 [![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-0078D4?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
 </div>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{KHAN-MD}/count.svg" alt="JawadYTX :: Visitor's Count" old_src="https://profile-counter.glitch.me/{JawadYTX}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{Queen-Chepx}/count.svg" alt="JawadYTX :: Visitor's Count" old_src="https://profile-counter.glitch.me/{JawadYTX}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/JawadYTX/KHAN-AI"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
+<a href="https://github.com/LucidLegend/Queen-Chepx"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=KHAN-AI&label=VIEWS&style=flat-square&color=blue" />
 </p>
 </p> 
@@ -85,7 +85,7 @@ You will need a session ID to run the KHAN-AI. Click the button below to obtain 
 
 
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/JawadYTX/KHAN-AI/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-brown?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/LucidLegend/Queen-Chepx/tree/main' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-brown?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 <h4 align="center">2. Koyeb</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -147,9 +147,6 @@ ANTI_BAD_WORDS
 <h4 align="center">3. Koyeb</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
-
-<p align="center">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=JawadYTX/KHAN-AI&ports=3000&env[SESSION_ID]&env[PREFIX]=.&env[AUTO_READ_STATUS]=true&env[AUTO_REACT]=true&env[OWNER_REACT]=true&env[HEART_REACT]=true&env[ANTI_LINK]=true&env[ANTI_BAD_WORDS]=xxx&env[FAKE_RECORDING]=false&env[READ_MESSAGE]=true&env[LIVE_MSG]=I%20AM%20ALIVE%20KHAN-AI%F0%9F%A4%98&env[OWNER_NUMBER]=92**********&env[OWNER_NAME]=JAWADYT&env[ALIVE_IMG]=https://files.catbox.moe/x3bdmi.jpg;&builder=dockerfile' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-pink?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
 
 <h4 align="center">4. Railway</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -227,14 +224,14 @@ jobs:
 
 ***
 
-## 🔗 KHAN-AI INFO
+## 🔗 BOT INFO
 
   <p align="center">
-<a href="https://github.com/JawadYTX/followers"><img title="Followers" src="https://img.shields.io/github/followers/JawadYTX?color=blue&style=flat-square"></a>
-<a href="https://github.com/JawadYTX/KHAN-AI/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JawadYTX/KHAN-AI?color=blue&style=flat-square"></a>
-<a href="https://github.com/JawadYTX/KHAN-AI/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JawadYTX/KHAN-AI?color=blue&style=flat-square"></a>
-<a href="https://github.com/JawadYTX/KHAN-AI/"><img title="Size" src="https://img.shields.io/github/repo-size/JawadYTX/KHAN-AI?style=flat-square&color=green"></a>
-<a href="https://github.com/JawadYTX/KHAN-AI/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/LucidLegend/followers"><img title="Followers" src="https://img.shields.io/github/followers/LucidLegend?color=blue&style=flat-square"></a>
+<a href="https://github.com/LucidLegend/Queen-Chepx/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/LucidLegend/Queen-Chepx?color=blue&style=flat-square"></a>
+<a href="https://github.com/LucidLegend/Queen-Chepx/network/members"><img title="Forks" src="https://img.shields.io/github/forks/LucidLegend/Queen-Chepx?color=blue&style=flat-square"></a>
+<a href="https://github.com/LucidLegend/Queen-Chepx/"><img title="Size" src="https://img.shields.io/github/repo-size/JawadYTX/KHAN-AI?style=flat-square&color=green"></a>
+<a href="https://github.com/LucidLegend/Queen-Chepx/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -244,7 +241,7 @@ jobs:
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x)
 
 ***
 
@@ -270,10 +267,12 @@ Stay connected with the latest updates and community by joining our official Wha
 ### Thanks To Team ⤵️
 
 > KHAN-AI Owner 
-- [JawadTechX](https://github.com/JawadYTX)
-- Creater and Owner Of KHAN-AI
-> KHAN-AI Helpers 
-- [ROMEKTRICKS](https://github.com/ROMEKTRICKS)
+- [JawadTechX](https://github.com/LucidLegend)
+- Creater and Owner Of Queen-Chepx
+> Helpers 
+- [ROMEKTRICKS](https://github.com/Berabotsmd)
+> Helpers 
+- [ROMEKTRICKS](https://github.com/betingrich3)
 - For helping in bot plugin files.
 ---
 
