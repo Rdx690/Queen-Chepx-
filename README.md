@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">QUEEN-CHEPX</h1>
+  <h1 align="center">SOURAJIT-AI</h1>
 </p>
 
 > **`Updated` The Version 2.0**
@@ -7,21 +7,21 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/LucidLegend">
-    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=Queen-Chepx+MultiDevice;Developed+by+LucidLegend;Give+star+and+forks+this+Repo" alt="JawadTechXReadme">
+  <a href="https://github.com/rdx690">
+    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=SOURAJIT-AI+MultiDevice;Developed+by+LucidLegend;Give+star+and+forks+this+Repo" alt="JawadTechXReadme">
   </a>
 </p>
 
 --- 
 
-<a><img src='https://files.catbox.moe/aljoqe.jpg'/></a>
+<a><img src='https://files.catbox.moe/y16skc.jpg'/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/ywmtcp.gif'/></a>
 
 ***
 
 <p align="center">
-  <a href="https://github.com/LucidLegend"><img title="Developer" src="https://img.shields.io/badge/Author-LucidLegend%20-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/rdx690"><img title="Developer" src="https://img.shields.io/badge/Author-LucidLegend%20-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -33,7 +33,7 @@
 
 
 <p align="center">
-<a href="https://github.com/LucidLegend/Queen-Chepx-"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
+<a href="https://github.com/rdx690/Queen-Chepx-"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=blue"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=KHAN-AI&label=VIEWS&style=flat-square&color=blue" />
 </p>
 </p> 
